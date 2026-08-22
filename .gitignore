@@ -1,0 +1,11 @@
+# upstream (cloned by run.sh; not vendored here — has non-commercial art assets)
+star-office/
+
+# python venv + runtime
+.venv/
+__pycache__/
+*.pyc
+
+# runtime logs / temp
+*.log
+.tmp*
